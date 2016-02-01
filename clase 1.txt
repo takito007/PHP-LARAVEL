@@ -1,0 +1,47 @@
+usuario@usuario-PC MINGW32 ~/Desktop/php-laravel/clase 1
+$ composer init
+
+
+  Welcome to the Composer config generator
+
+
+
+This command will guide you through creating your composer.json config.
+
+Package name (<vendor>/<name>) [usuario/clase 1]: takito007/php-laravel
+Description []: Proyecto php en Platzi con Laravel
+Author [Marc Gimenez <marc@elementalict.com>]:
+Minimum Stability []:
+Package Type []: project
+License []: MIT
+
+Define your dependencies.
+
+Would you like to define your dependencies (require) interactively [yes]? no
+Would you like to define your dev dependencies (require-dev) interactively [yes]        ? no
+
+{
+    "name": "takito007/php-laravel",
+    "description": "Proyecto de\u001b[2php en platzi con Laravel\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[24P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Gimenez",
+            "email": "marc@elementalict.com"
+        }
+    ],
+    "require": {}
+}
+
+Do you confirm generation [yes]?
+
+usuario@usuario-PC MINGW32 ~/Desktop/php-laravel/clase 1
+$ composer install
+Loading composer repositories with package information
+Installing dependencies (including require-dev)
+Nothing to install or update
+Generating autoload files
+
+usuario@usuario-PC MINGW32 ~/Desktop/php-laravel/clase 1
+$
